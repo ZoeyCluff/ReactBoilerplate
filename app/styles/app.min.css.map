@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "app.min.css",
+	"sources": [
+		"app.scss",
+		"base/_variables.scss"
+	],
+	"names": [],
+	"mappings": ""
+}
